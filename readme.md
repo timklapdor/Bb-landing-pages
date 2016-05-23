@@ -124,7 +124,7 @@ As well as ordered lists that appear as numbered lists
 </ol>
 ```
 
-## Images
+## 5. Images
 
 The Hero image will be full width - but will shrink to fit the width of the content window (set at 85%)
 
@@ -193,7 +193,7 @@ If you have an odd number of images you can use this code that includes an "offs
 </div> 
 ```
 
-## Videos
+## 6. Videos
 
 The code below will create a full width responsive YouTube video. To use it swap out the ```src=""``` address in the iFrame code with the src for your video. To find this in YouTube click on **Share** tab, **Embed** and copy the ```src""`` code there
 
@@ -249,7 +249,7 @@ Or small on the left
       </div>
 </div>  
 ```
-## Clear
+## 7. Clear
 
 Some styles may "leak" into the next section. If that happens try inserting this line break:
 
@@ -257,7 +257,7 @@ Some styles may "leak" into the next section. If that happens try inserting this
 <br style="clear:both">    
 ```
 
-## Profiles
+## 8. Profiles
 
 Single Profile:
 
