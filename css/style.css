@@ -1,6 +1,6 @@
 body {
 	 padding: 0px 0 50px 0;
-	 font-size: 17px;
+	 font-size: 20px;
 	 min-height: 100%;
 	 font-family: sans-serif;
 }
@@ -470,3 +470,13 @@ box-shadow: 10px 10px 15px -4px rgba(41,41,41,0.35);
     width: 100%;
     height: 100%;
 }
+
+/* Buttons
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+/* Links
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+a {
+  color: #00AFD8; text-decoration: none;}
+a:hover {
+  color: #666666; }
