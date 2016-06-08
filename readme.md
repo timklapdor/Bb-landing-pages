@@ -1,3 +1,7 @@
+# Updates to Work
+
+Now available in [release notes](release-notes.md)
+
 # Using the Elements
 
 ## 1. Start with the container DIV
