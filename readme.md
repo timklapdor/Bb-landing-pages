@@ -423,7 +423,7 @@ Or three!
 </div>
 ```
 
-## Columns
+## 9. Columns
 
 The code below provides a number of premade column and content configurations:
 
@@ -531,3 +531,15 @@ Thirds - Image + Heading & Text
       </div>
 </div> 
 ```
+
+## 10. Colours
+
+Quick Colour Reference - HEX is what you need to replace to tweak colours used in these designs. 
+
+Colour | HEX | Example
+:--- | :--- | :--- | :--- | :---: |
+Blue | 00AFD8 | <span style="color: #00AFD8;">&#9608;&#9608;&#9608;&#9608;</span>
+Red | E31B23 | <span style="color: #E31B23;">&#9608;&#9608;&#9608;&#9608;</span>
+Purple | 6E267B | <span style="color: #6E267B;">&#9608;&#9608;&#9608;&#9608;</span>
+Orange | F47B20 | <span style="color: #F47B20;">&#9608;&#9608;&#9608;&#9608;</span>
+Green | 7AB800 | <span style="color: #7AB800;">&#9608;&#9608;&#9608;&#9608;</span>
