@@ -7,3 +7,4 @@
 - Added new columm configurations to Readme to simplify creation of new content.
 - Tweaks to padding and margins in profiles - h4 removes space around, h6 adds extra space - should normalise spacing.
 - Tweaks to spacing in Single Profile - added padding to bio text paragraphy, removed from contact list
+- Added ```clear: both;``` to DIVs for sections. Should stop some of the overflow and bleed issues associated with H4 colour. 
