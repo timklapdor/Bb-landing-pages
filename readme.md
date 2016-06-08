@@ -536,10 +536,10 @@ Thirds - Image + Heading & Text
 
 Quick Colour Reference - HEX is what you need to replace to tweak colours used in these designs. 
 
-Colour | HEX | Example
-:--- | :--- | :--- | :--- | :---: |
-Blue | 00AFD8 | <span style="color: #00AFD8;">&#9608;&#9608;&#9608;&#9608;</span>
-Red | E31B23 | <span style="color: #E31B23;">&#9608;&#9608;&#9608;&#9608;</span>
-Purple | 6E267B | <span style="color: #6E267B;">&#9608;&#9608;&#9608;&#9608;</span>
-Orange | F47B20 | <span style="color: #F47B20;">&#9608;&#9608;&#9608;&#9608;</span>
-Green | 7AB800 | <span style="color: #7AB800;">&#9608;&#9608;&#9608;&#9608;</span>
+Colour | HEX 
+:--- | :--- 
+Blue | 00AFD8 
+Red | E31B23 
+Purple | 6E267B 
+Orange | F47B20 
+Green | 7AB800 
