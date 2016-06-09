@@ -1,5 +1,9 @@
 # Updates
 
+## 9 June 2016
+
+- added [2UP profile alternative](http://timklapdor.github.io/Bb-landing-pages/inline-profiles.html) Code in the readme.
+
 ## 8 June 2016
 
 - changed Clear function from ```<br>``` to ```<p style="clear:both">&nbsp;</p>``` as Blackboard was removing. 
