@@ -12,7 +12,7 @@ Now available in [release notes](release-notes.md)
 
 ## 2.  Add in your headings
 
-Choose from Heading 1 
+Choose from Heading 1
 
 ```html
 <h1 style="font-size: 68px; line-height: 1em; font-family: sans-serif; font-weight: 400; color: #E31B23; margin: 0px 0px 0.37em; padding: 0px 10px; clear: both;">Change this Text</h1>
@@ -84,7 +84,7 @@ Or use a Heading 5
 
 ## 4. Text Types
 
-The intro text is good for a lead content like an introductory paragraph of text 
+The intro text is good for a lead content like an introductory paragraph of text
 
 ```html
 <p class="intro" style="font-family: sans-serif; color: word-wrap: break-word; font-size: 20px; line-height: 1.3em; margin: 0px 0px 1.5em; padding: 0 0 0.5em;">An introductory paragraph is a great way to summarise the content before the reader really digs into the detail of your story.</p>
@@ -117,7 +117,7 @@ There's also unordered lists that are "dot-points"
 <li>This is the third item in the list</li>
 </ul>
 ```
-    
+
 As well as ordered lists that appear as numbered lists
 
 ```html
@@ -181,7 +181,7 @@ You can also use the following snippets to resize images inside of columns so th
 
 50% Width
 ```html
-<img class="ind-50" src="https://dl.dropboxusercontent.com/u/2706309/Images/flower.jpg" style="max-width: 50%; display: block; height: auto; margin: auto; padding: 10px;"> 
+<img class="ind-50" src="https://dl.dropboxusercontent.com/u/2706309/Images/flower.jpg" style="max-width: 50%; display: block; height: auto; margin: auto; padding: 10px;">
 ```
 
 40% Width
@@ -208,10 +208,10 @@ Code for a four column image gallery
      <img class="four-col-img" src="https://dl.dropboxusercontent.com/u/2706309/Images/uImagine-sq.png" style="max-width: 100%; width: 22.7%; margin: 1%;" align="left">
      <img class="four-col-img" src="https://dl.dropboxusercontent.com/u/2706309/Images/uImagine-sq.png" style="max-width: 100%; width: 22.7%; margin: 1%;" align="left">
      <img class="four-col-img" src="https://dl.dropboxusercontent.com/u/2706309/Images/uImagine-sq.png" style="max-width: 100%; width: 22.7%; margin: 1%;" align="left">
-</div> 
+</div>
 ```
 
-If you have an odd number of images you can use this code that includes an "offset" DIV to space the odd number. 
+If you have an odd number of images you can use this code that includes an "offset" DIV to space the odd number.
 
 ```html
 <div class="five-col-gallery" align="center">
@@ -222,7 +222,7 @@ If you have an odd number of images you can use this code that includes an "offs
 	 -moz-box-sizing: border-box; box-sizing: border-box; overflow: visible;">&nbsp;</div>
       <img class="three-col-img" src="https://dl.dropboxusercontent.com/u/2706309/Images/uImagine-sq.png" style="width: 31%; float: left; max-width: 100%; margin: 1%;">
       <img class="three-col-img" src="https://dl.dropboxusercontent.com/u/2706309/Images/uImagine-sq.png" style="width: 31%; float: left; max-width: 100%; margin: 1%;">                             
-</div> 
+</div>
 ```
 
 ## 6. Videos
@@ -242,7 +242,7 @@ You can also float the videos at 50% of the width to the left
 <div class="half" style="display: block; float: left; width: 50%; overflow: visible; margin: 0; padding: 10px;">
     <div class="video-container" style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;"><iframe width="560" height="315" src="https://www.youtube.com/embed/977AYjapws0?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
     <p class="caption" style="font-family: sans-serif; color: #666666; text-align: center; word-wrap: break-word; font-style: italic; font-weight: 400; font-size: 1em; line-height: 1.2em; font-family: serif; margin: 0px;" align="center">Developed by Christian Surname</p>
-</div> 
+</div>
 ```
 
 Or to the right
@@ -263,7 +263,7 @@ Videos can also be placed in thirds based columns - so you can provide a descrip
       </div>
       <div class="two-third" style="float: left; width: 66.66%; text-align: left; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; overflow: visible; border-left-color: #eee; border-left-style: solid; padding: 0 10px; border-width: 0 0 0 1px;">
           <div class="video-container" style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;"><iframe width="560" height="315" src="https://www.youtube.com/embed/977AYjapws0?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-        <p class="byline" style="font-family: sans-serif; color: #666666; text-align: center; word-wrap: break-word; font-style: italic; font-weight: 400; font-size: 16px; line-height: 1.2em; font-family: serif; margin: 0px 0px 1.5em; padding: 0 0 0.5em; border: 0;" align="center">Developed by Christian Surname</p> 
+        <p class="byline" style="font-family: sans-serif; color: #666666; text-align: center; word-wrap: break-word; font-style: italic; font-weight: 400; font-size: 16px; line-height: 1.2em; font-family: serif; margin: 0px 0px 1.5em; padding: 0 0 0.5em; border: 0;" align="center">Developed by Christian Surname</p>
       </div>
 </div>  
 ```
@@ -305,7 +305,7 @@ Single Profile:
     <p style="font-family: sans-serif; color: #1A1A1A; word-wrap: break-word; line-height: 1.2em; margin: 0px; padding: 0.2em 0 0em 0"><span style="font-weight: bold;">Contact:</span> email@some.com</p>
 
     <p style="font-family: sans-serif; color: #1A1A1A; word-wrap: break-word; line-height: 1.2em; margin: 0px; padding: 0.2em 0 0em 0"><span style="font-weight: bold;">Twitter:</span> @someone</p>
-    
+
     <p style="font-family: sans-serif; color: #1A1A1A; word-wrap: break-word; line-height: 1.2em; margin: 0px; padding: 0.5em 0 0.5em;">Spent several months developing shaving cream in West Palm Beach, FL. Lead a team buying and selling catfish in Libya. Spent 2001-2005 getting my feet wet with fried chicken in Deltona, FL. Managed a small team working on cigarettes in Cuba. Spent 2001-2007 investing in toy planes in Minneapolis, MN. Garnered an industry award while getting to know junk food in Jacksonville, FL.</p>
 
 </div>
@@ -328,20 +328,20 @@ Larger Single Profile:
         <p style="font-family: sans-serif; color: #1A1A1A; word-wrap: break-word; line-height: 1.2em; margin: 0px; padding: 0 0 0 0.5em;"><span style="font-weight: bold;">Contact:</span> email@some.com</p>
 
         <p style="font-family: sans-serif; color: #1A1A1A; word-wrap: break-word; line-height: 1.2em; margin: 0px; padding: 0 0 0 0.5em;"><span style="font-weight: bold; ">Twitter:</span> @someone</p>
-   
+
     </div>
-    
+
     <div class="two-third" style="display: block; float: left; width: 66.66%; text-align: left; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; overflow: visible; border-left-color: #eee; border-left-style: solid; margin: 0; padding: 0 10px; border-width: 0 0 0 1px;">
 
         <p style="font-family: sans-serif; color: #1A1A1A; word-wrap: break-word; line-height: 1.2em; margin: 0px; padding: 0 0 0.5em;">Spent several months developing shaving cream in West Palm Beach, FL. Lead a team buying and selling catfish in Libya. Spent 2001-2005 getting my feet wet with fried chicken in Deltona, FL. Managed a small team working on cigarettes in Cuba. Spent 2001-2007 investing in toy planes in Minneapolis, MN. Garnered an industry award while getting to know junk food in Jacksonville, FL.</p>
-        
+
         <p style="font-family: sans-serif; color: #1A1A1A; word-wrap: break-word; line-height: 1.2em; margin: 0px; padding: 0 0 0.5em;">Spent several months developing shaving cream in West Palm Beach, FL. Lead a team buying and selling catfish in Libya. Spent 2001-2005 getting my feet wet with fried chicken in Deltona, FL. Managed a small team working on cigarettes in Cuba. Spent 2001-2007 investing in toy planes in Minneapolis, MN. Garnered an industry award while getting to know junk food in Jacksonville, FL.</p>
-  
+
         <p style="font-family: sans-serif; color: #1A1A1A; word-wrap: break-word; line-height: 1.2em; margin: 0px; padding: 0 0 0.5em;">Spent several months developing shaving cream in West Palm Beach, FL. Lead a team buying and selling catfish in Libya. Spent 2001-2005 getting my feet wet with fried chicken in Deltona, FL. Managed a small team working on cigarettes in Cuba. Spent 2001-2007 investing in toy planes in Minneapolis, MN. Garnered an industry award while getting to know junk food in Jacksonville, FL.</p>
-  
+
         <p style="font-family: sans-serif; color: #1A1A1A; word-wrap: break-word; line-height: 1.2em; margin: 0px; padding: 0 0 0.5em;">Spent several months developing shaving cream in West Palm Beach, FL. Lead a team buying and selling catfish in Libya. Spent 2001-2005 getting my feet wet with fried chicken in Deltona, FL. Managed a small team working on cigarettes in Cuba. Spent 2001-2007 investing in toy planes in Minneapolis, MN. Garnered an industry award while getting to know junk food in Jacksonville, FL.</p>
 </div>
-</div> 
+</div>
 ```
 
 Or two side by side
@@ -349,9 +349,9 @@ Or two side by side
 ```html
 <div class="halves" style="clear:both;">
       <div class="half" style="display: block; float: left; width: 50%; text-align: left; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; overflow: visible; border-left-color: #eee; border-left-style: solid; margin: 0; padding: 0 5px 10 0; border-width: 0 1px 0 0;">
-        
+
         <h4 class="blue" style="font-family: sans-serif; color: #fff; text-transform: uppercase; font-weight: 600; background-color: #00AFD8; margin: 12px 0px 0px 0px; padding: 0.5em 10px;">Christian Surname</h4>
-          
+
         <img src="http://timklapdor.github.io/Bb-landing-pages/assets/squareprofile.jpg" style="max-width: 70%; display: block; height: auto; margin: auto; padding: 10px;">
 
         <h6 style="font-family: sans-serif; font-size: 1.2em;  font-style: italic; font-weight: 400; font-variant: normal; margin: 0; padding: 0.5em 0 0 0.5em;">Job Title</h6>
@@ -361,9 +361,9 @@ Or two side by side
         <p style="font-family: sans-serif; color: #1A1A1A; word-wrap: break-word; line-height: 1.2em; margin: 0px; padding: 0 0 0 0.5em;"><span style="font-weight: bold; ">Twitter:</span> @someone</p>
       </div>
       <div class="half" style="display: block; float: left; width: 50%; text-align: left; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; overflow: visible; border-left-color: #eee; border-left-style: solid; margin: 0; padding: 0 0 10px 5px; border-width: 0 0 0 1px;">
-        
+
         <h4 class="blue" style="font-family: sans-serif; color: #fff; text-transform: uppercase; font-weight: 600; background-color: #00AFD8; margin: 12px 0px 0px 0px; padding: 0.5em 10px;">Christian Surname</h4>
-          
+
         <img src="http://timklapdor.github.io/Bb-landing-pages/assets/squareprofile.jpg" style="max-width: 70%; display: block; height: auto; margin: auto; padding: 10px;">
 
         <h6 style="font-family: sans-serif; font-size: 1.2em;  font-style: italic; font-weight: 400; font-variant: normal; margin: 0; padding: 0.5em 0 0 0.5em;">Job Title</h6>
@@ -371,10 +371,10 @@ Or two side by side
         <p style="font-family: sans-serif; color: #1A1A1A; word-wrap: break-word; line-height: 1.2em; margin: 0px; padding: 0 0 0 0.5em;"><span style="font-weight: bold;">Contact:</span> email@some.com</p>
 
         <p style="font-family: sans-serif; color: #1A1A1A; word-wrap: break-word; line-height: 1.2em; margin: 0px; padding: 0 0 0 0.5em;"><span style="font-weight: bold; ">Twitter:</span> @someone</p>
-          
+
       </div>
 
-</div> 
+</div>
 ```
 
 Two up compact
@@ -384,9 +384,9 @@ Two up compact
     <div class="half" style="display: block; float: left; width: 50%; text-align: left; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; overflow: visible; border-left-color: #eee; border-left-style: solid; margin: 0; padding: 0 5px 10 0; border-width: 0 1px 0 0;">
 
         <h4 class="blue" style="font-family: sans-serif; color: #fff; text-transform: uppercase; font-weight: 600; background-color: #00AFD8; margin: 12px 0px 12px 0px; padding: 0.5em 10px;">Christian Surname</h4>
-        
-        <img class="profile-left" src="http://timklapdor.github.io/Bb-landing-pages/assets/squareprofile.jpg" style="width: 40%; -webkit-box-shadow: 10px 10px 15px -4px rgba(41,41,41,0.35); -moz-box-shadow: 10px 10px 15px -4px rgba(41,41,41,0.35); box-shadow: 10px 10px 15px -4px rgba(41,41,41,0.35); margin: -10px 15px 5px 0; padding: 0; border: 3px solid #fff;" align="left"> 
-            
+
+        <img class="profile-left" src="http://timklapdor.github.io/Bb-landing-pages/assets/squareprofile.jpg" style="width: 40%; -webkit-box-shadow: 10px 10px 15px -4px rgba(41,41,41,0.35); -moz-box-shadow: 10px 10px 15px -4px rgba(41,41,41,0.35); box-shadow: 10px 10px 15px -4px rgba(41,41,41,0.35); margin: -10px 15px 5px 0; padding: 0; border: 3px solid #fff;" align="left">
+
         <h6 style="font-family: sans-serif; font-size: 1.2em;  font-style: italic; font-weight: 400; font-variant: normal; vertical-align: baseline; margin: 0; padding: 0 0 0 10px;">Job Title</h6>
 
         <p style="font-family: sans-serif; color: #1A1A1A; word-wrap: break-word; line-height: 1.2em; margin: 0px; padding: 0.2em 0 0em 0"><span style="font-weight: bold;">Contact:</span> email@some.com</p>
@@ -394,11 +394,11 @@ Two up compact
         <p style="font-family: sans-serif; color: #1A1A1A; word-wrap: break-word; line-height: 1.2em; margin: 0px; padding: 0.2em 0 0em 0"><span style="font-weight: bold;">Twitter:</span> @someone</p>
 
         <p style="font-family: sans-serif; color: #1A1A1A; word-wrap: break-word; line-height: 1.2em; margin: 0px; padding: 0.5em 0 0.5em;">Spent several months developing shaving cream in West Palm Beach, FL. Lead a team buying and selling catfish in Libya. Spent 2001-2005 getting my feet wet with fried chicken in Deltona, FL. Managed a small team working on cigarettes in Cuba. Spent 2001-2007 investing in toy planes in Minneapolis, MN. Garnered an industry award while getting to know junk food in Jacksonville, FL.</p>
-    </div> 
+    </div>
     <div class="half" style="display: block; float: left; width: 50%; text-align: left; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; overflow: visible; border-left-color: #eee; border-left-style: solid; margin: 0; padding: 0 5px 10 0; border-width: 0 1px 0 0;">
 
         <h4 class="blue" style="font-family: sans-serif; color: #fff; text-transform: uppercase; font-weight: 600; background-color: #00AFD8; margin: 12px 0px 12px 0px; padding: 0.5em 10px;">Christian Surname</h4>
-        
+
         <img class="profile-left" src="http://timklapdor.github.io/Bb-landing-pages/assets/squareprofile.jpg" style="width: 40%; -webkit-box-shadow: 10px 10px 15px -4px rgba(41,41,41,0.35); -moz-box-shadow: 10px 10px 15px -4px rgba(41,41,41,0.35); box-shadow: 10px 10px 15px -4px rgba(41,41,41,0.35); margin: -10px 15px 5px 0; padding: 0; border: 3px solid #fff;" align="left">    
 
         <h6 style="font-family: sans-serif; font-size: 1.2em;  font-style: italic; font-weight: 400; font-variant: normal; vertical-align: baseline; margin: 0; padding: 0 0 0 10px;">Job Title</h6>
@@ -408,7 +408,7 @@ Two up compact
         <p style="font-family: sans-serif; color: #1A1A1A; word-wrap: break-word; line-height: 1.2em; margin: 0px; padding: 0.2em 0 0em 0"><span style="font-weight: bold;">Twitter:</span> @someone</p>
 
         <p style="font-family: sans-serif; color: #1A1A1A; word-wrap: break-word; line-height: 1.2em; margin: 0px; padding: 0.5em 0 0.5em;">Spent several months developing shaving cream in West Palm Beach, FL. Lead a team buying and selling catfish in Libya. Spent 2001-2005 getting my feet wet with fried chicken in Deltona, FL. Managed a small team working on cigarettes in Cuba. Spent 2001-2007 investing in toy planes in Minneapolis, MN. Garnered an industry award while getting to know junk food in Jacksonville, FL.</p>
-    </div> 
+    </div>
 
 </div>
 ```
@@ -419,9 +419,9 @@ Or three!
 ```html
 <div class="third" style="text-align: center;">
       <div class="third" style="display: block; float: left; width: 33.33%; text-align: left; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; overflow: visible; margin: 0; padding: 0 10px 10px 0; border: 0;">
-        
+
         <h4 class="blue" style="font-family: sans-serif; color: #fff; text-transform: uppercase; font-weight: 600; background-color: #00AFD8; margin: 12px 0px; padding: 0.5em 10px;">Christian Surname</h4>
-          
+
         <img src="http://timklapdor.github.io/Bb-landing-pages/assets/squareprofile.jpg" style="max-width: 70%; display: block; height: auto; margin: auto;">
 
         <h6 style="font-family: sans-serif; font-size: 1.2em;  font-style: italic; font-weight: 400; font-variant: normal; margin: 0; padding: 0.5em 0 0 0.5em;">Job Title</h6>
@@ -431,9 +431,9 @@ Or three!
         <p style="font-family: sans-serif; color: #1A1A1A; word-wrap: break-word; line-height: 1.2em; margin: 0px; padding: 0 0 0 0.5em;"><span style="font-weight: bold; ">Twitter:</span> @someone</p>
       </div>
       <div class="third" style="display: block; float: left; width: 33.33%; text-align: left; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; overflow: visible; margin: 0; padding: 0 10px 10px 0; border: 0;">
-        
+
         <h4 class="blue" style="font-family: sans-serif; color: #fff; text-transform: uppercase; font-weight: 600; background-color: #00AFD8; margin: 12px 0px; padding: 0.5em 10px;">Christian Surname</h4>
-          
+
         <img src="http://timklapdor.github.io/Bb-landing-pages/assets/squareprofile.jpg" style="max-width: 70%; display: block; height: auto; margin: auto;">
 
         <h6 style="font-family: sans-serif; font-size: 1.2em;  font-style: italic; font-weight: 400; font-variant: normal; margin: 0; padding: 0.5em 0 0 0.5em;">Job Title</h6>
@@ -441,13 +441,13 @@ Or three!
         <p style="font-family: sans-serif; color: #1A1A1A; word-wrap: break-word; line-height: 1.2em; margin: 0px; padding: 0 0 0 0.5em;"><span style="font-weight: bold;">Contact:</span> email@some.com</p>
 
         <p style="font-family: sans-serif; color: #1A1A1A; word-wrap: break-word; line-height: 1.2em; margin: 0px; padding: 0 0 0 0.5em;"><span style="font-weight: bold; ">Twitter:</span> @someone</p>
-          
+
       </div>
-        
+
       <div class="third" style="display: block; float: left; width: 33.33%; text-align: left; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; overflow: visible; margin: 0; padding: 0 10px 10px 0; border: 0;">
-        
+
         <h4 class="blue" style="font-family: sans-serif; color: #fff; text-transform: uppercase; font-weight: 600; background-color: #00AFD8; margin: 12px 0px; padding: 0.5em 10px;">Christian Surname</h4>
-          
+
         <img src="http://timklapdor.github.io/Bb-landing-pages/assets/squareprofile.jpg" style="max-width: 70%; display: block; height: auto; margin: auto;">
 
         <h6 style="font-family: sans-serif; font-size: 1.2em;  font-style: italic; font-weight: 400; font-variant: normal; margin: 0; padding: 0.5em 0 0 0.5em;">Job Title</h6>
@@ -455,7 +455,7 @@ Or three!
         <p style="font-family: sans-serif; color: #1A1A1A; word-wrap: break-word; line-height: 1.2em; margin: 0px; padding: 0 0 0 0.5em;"><span style="font-weight: bold;">Contact:</span> email@some.com</p>
 
         <p style="font-family: sans-serif; color: #1A1A1A; word-wrap: break-word; line-height: 1.2em; margin: 0px; padding: 0 0 0 0.5em;"><span style="font-weight: bold; ">Twitter:</span> @someone</p>
-          
+
       </div>
 </div>
 ```
@@ -544,13 +544,13 @@ Thirds - Heading & Text + Video
 <div class="thirds" style="clear:both;">
       <div class="third" style="display: block; float: left; width: 33.33%; text-align: left; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; overflow: visible; margin: 0; padding: 0 10px 0 0; border: 0;">
         <div class="video-container" style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;"><iframe width="560" height="315" src="https://www.youtube.com/embed/977AYjapws0?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-        
+
         <p class="byline" style="font-family: sans-serif; color: #666666; text-align: center; word-wrap: break-word; font-style: italic; font-weight: 400; font-size: 16px; line-height: 1.2em; font-family: serif; margin: 0px 0px 1.5em; padding: 0 0 0.5em; border: 0;" align="center">Developed by Christian Surname</p>
       </div>
       <div class="two-third" style="float: left; width: 66.66%; text-align: left; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; overflow: visible; border-left-color: #eee; border-left-style: solid; padding: 0 10px; border-width: 0 0 0 1px;">
           <p style="font-family: sans-serif; color: #1A1A1A; word-wrap: break-word; line-height: 1.2em; margin: 0px; padding: 0 0 0.5em;">Spent several months developing shaving cream in West Palm Beach, FL. Lead a team buying and selling catfish in Libya. Spent 2001-2005 getting my feet wet with fried chicken in Deltona, FL. Managed a small team working on cigarettes in Cuba. Spent 2001-2007 investing in toy planes in Minneapolis, MN. Garnered an industry award while getting to know junk food in Jacksonville, FL.</p>
       </div>
-</div> 
+</div>
 ```
 
 Thirds - Image + Heading & Text
@@ -560,23 +560,24 @@ Thirds - Image + Heading & Text
       <div class="third" style="display: block; float: left; width: 33.33%; text-align: left; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; overflow: visible; margin: 0; padding: 0 10px 0 0; border: 0;">
         <img class="ind-100" src="https://dl.dropboxusercontent.com/u/2706309/Images/flower.jpg" style="max-width: 100%; display: block; height: auto; margin: auto; padding: 10px;">
 
-        
+
         <p class="byline" style="font-family: sans-serif; color: #666666; text-align: center; word-wrap: break-word; font-style: italic; font-weight: 400; font-size: 16px; line-height: 1.2em; font-family: serif; margin: 0px 0px 1.5em; padding: 0 0 0.5em; border: 0;" align="center">Developed by Christian Surname</p>
       </div>
       <div class="two-third" style="float: left; width: 66.66%; text-align: left; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; overflow: visible; border-left-color: #eee; border-left-style: solid; padding: 0 10px; border-width: 0 0 0 1px;">
           <p style="font-family: sans-serif; color: #1A1A1A; word-wrap: break-word; line-height: 1.2em; margin: 0px; padding: 0 0 0.5em;">Spent several months developing shaving cream in West Palm Beach, FL. Lead a team buying and selling catfish in Libya. Spent 2001-2005 getting my feet wet with fried chicken in Deltona, FL. Managed a small team working on cigarettes in Cuba. Spent 2001-2007 investing in toy planes in Minneapolis, MN. Garnered an industry award while getting to know junk food in Jacksonville, FL.</p>
       </div>
-</div> 
+</div>
 ```
+
 
 ## 10. Colours
 
-Quick Colour Reference - HEX is what you need to replace to tweak colours used in these designs. 
+Quick Colour Reference - HEX is what you need to replace to tweak colours used in these designs.
 
-Colour | HEX 
-:--- | :--- 
-Blue | 00AFD8 
-Red | E31B23 
-Purple | 6E267B 
-Orange | F47B20 
-Green | 7AB800 
+Colour | HEX
+:--- | :---
+Blue | 00AFD8
+Red | E31B23
+Purple | 6E267B
+Orange | F47B20
+Green | 7AB800

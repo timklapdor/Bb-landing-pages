@@ -100,8 +100,8 @@ h5 {
 h6 {
 	 font-weight: 400;
 	 margin-bottom: 0;
-     font-size: 1.2em; 
-     font-style:italic;   
+     font-size: 1.2em;
+     font-style:italic;
      padding-left: 10px;
 }
 
@@ -144,7 +144,7 @@ p.contact {
     font-style: normal;
 }
 
-p.quote {    
+p.quote {
      padding: 0.5em;
 	 text-align: left;
 	 font-size: 27px;
@@ -460,7 +460,7 @@ box-shadow: 10px 10px 15px -4px rgba(41,41,41,0.35);
     padding-bottom: 56.25%;
     padding-top: 30px; height: 0; overflow: hidden;
 }
- 
+
 .video-container iframe,
 .video-container object,
 .video-container embed {
